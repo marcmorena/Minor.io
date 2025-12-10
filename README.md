@@ -119,6 +119,21 @@ El ciclo de trabajo aplicado fue:
 
 ---
 
+## Instalación y ejecución
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/marcmorena/minor.io.git
+
+2. Entra en la carpeta del proyecto:
+cd minor.io
+
+3. Instala las dependencias:
+flutter pub get
+
+4. Ejecuta la app en un emulador o dispositivo:
+flutter run
+
 ## Capturas de pantalla
 
 ![Pantalla principal](assets/capturas/login.png)
