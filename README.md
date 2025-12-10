@@ -119,6 +119,22 @@ El ciclo de trabajo aplicado fue:
 
 ---
 
+## Capturas de pantalla
+
+![Pantalla principal](assets/capturas/login.png)
+
+![Menu principal](assets/capturas/menu.png)
+
+![Pantalla usuarios](assets/capturas/usuarios.png)
+
+![Pantalla actividades](assets/capturas/actividad.png)
+
+![Pantalla diario](assets/capturas/diario.png)
+
+![Pantalla evaluaciones](assets/capturas/evaluacion.png)
+
+
+
 ## Autor
 
 **Marc Morena Herranz**  
